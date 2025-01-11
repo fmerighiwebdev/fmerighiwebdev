@@ -12,9 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fmerighiwebdev&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fmerighiwebdev&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fmerighiwebdev&theme=react&no-frame=true&no-bg=true&margin-w=4)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=fmerighiwebdev&icon=2&color=1)](https://visitcount.itsvg.in)
