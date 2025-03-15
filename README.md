@@ -1,5 +1,5 @@
 # 👨🏼‍💻 About Me
-🌍 Full-Stack Developer from Italy, coding my way through the digital world with a mix of elegance and efficiency.<br>⚡ I don’t just build websites and apps—I build experiences.<br>⚙️ I’ve mastered turning challenges into opportunities and bugs into learning moments.<br>✨ My style: Clean, efficient, scalable—both in life and in my codebase.<br>🧬 What drives me: Seeing ideas come to life, pixel by pixel, feature by feature.
+🌍 Full-Stack Developer from Italy, coding my way through the digital world with a mix of elegance and efficiency.<br>⚡ I don’t just build websites and apps—I build experiences.<br>⚙️ I’ve mastered turning challenges into opportunities and bugs into learning moments.<br>✨ My style: Clean, efficient, scalable—both in life and in my codebase.<br>🧬 What drives me: Seeing ideas come to life, pixel by pixel, feature by feature.<br>My website: [![FM](www.fmerighi.it)]
 
 
 # 🌐 Socials
