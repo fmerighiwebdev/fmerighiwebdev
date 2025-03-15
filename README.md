@@ -2,7 +2,7 @@
 🌍 Full-Stack Developer from Italy, coding my way through the digital world with a mix of elegance and efficiency.<br>⚡ I don’t just build websites and apps—I build experiences.<br>⚙️ I’ve mastered turning challenges into opportunities and bugs into learning moments.<br>✨ My style: Clean, efficient, scalable—both in life and in my codebase.<br>🧬 What drives me: Seeing ideas come to life, pixel by pixel, feature by feature.
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/632617472788529172) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fmerighi.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-merighi-373939217) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/281254) 
 
 # 💻 Tech Stack
